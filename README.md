@@ -23,15 +23,17 @@ pip install -i https://test.pypi.org/simple/ mmachine
 
 The current version of mmachine has 3 commands:
 
-`
+- `
 mmachine init
 `
   create a new DE project environment in the directory you are currently in
-`
+
+- `
 mmachine dbt
 `
   create a new Dbt Project
-`
+
+- `
 mmachine close
 `
   closes your running docker-compose instances
