@@ -7,8 +7,9 @@ It creates launches airflow on docker and sets up a dbt project automatically.
 
 Commands are:
 
-mmachine init
-
-to create a new DE project environment in the directory you are currently in
-
-IN V0.2 WE CHANGED FROM A BASH SCRIPT TO A PYTHON SCRIPT FOR THE mmachine init PROCESS
+ - init:
+  create a new DE project environment in the directory you are currently in
+ - dbt:
+  create a new Dbt Project
+ - close:
+  close your running docker-compose instances

@@ -15,7 +15,7 @@ setuptools.setup(
      description="A tool to setup a data engineering environment with Airflow and DBT ready",
      long_description=long_description,
      long_description_content_type="text/markdown",
-     url="https://github.com/",
+     url="https://github.com/DE-Edo/mmachine-core",
      classifiers=[
          "Programming Language :: Python :: 3",
          "License :: OSI Approved :: MIT License",
