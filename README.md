@@ -3,7 +3,7 @@ Welcome to mmachine!
 Mystery Machine is a tool that allows users to build a full data engineering project environment
 just by writing one line of code.
 
-It creates launches airflow on docker and sets up a dbt project automatically.
+It launches airflow on docker-compose and sets up a dbt project while smoothly moving dependencies.
 
 Commands are:
 
