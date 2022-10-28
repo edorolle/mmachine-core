@@ -1,9 +1,9 @@
-from distutils.core import setup
+import setuptools
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
-setup(
+setuptools.setup(
      name='mmachine',  
      version='0.0.2',
      entry_points = {
@@ -16,7 +16,7 @@ setup(
      long_description=long_description,
      long_description_content_type="text/markdown",
      url="https://github.com/DE-Edo/mmachine-core",
-     download_url = "https://github.com/DE-Edo/mmachine-core/archive/refs/tags/0.0.2.tar.gz",
+     #download_url = "https://github.com/DE-Edo/mmachine-core/archive/refs/tags/0.0.2_1.tar.gz",
      classifiers=[
          "Programming Language :: Python :: 3",
          "License :: OSI Approved :: MIT License",
