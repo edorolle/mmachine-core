@@ -2,7 +2,7 @@
 Welcome to mmachine! 
 
 Mystery Machine is a tool that allows users to build a full data engineering project environment
-just by writing one line of code making dbt more accessible
+just by writing one line of code, making dbt more accessible
 
 ![Example project directory created](./example_dir.png)
 
